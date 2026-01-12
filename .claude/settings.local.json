@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(sed:*)",
+      "Bash(npm run dev:*)",
+      "WebSearch",
+      "Bash(npm install:*)",
+      "WebFetch(domain:prism.pflugerarchitects.com)",
+      "Bash(git log:*)",
+      "Bash(timeout 30 sleep:*)",
+      "Bash(npm run build:*)",
+      "Bash(curl:*)",
+      "Bash(php database/add-facility-columns.sql)",
+      "Bash(python3:*)",
+      "Bash(kill:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

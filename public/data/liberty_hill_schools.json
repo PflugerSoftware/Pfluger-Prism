@@ -1,0 +1,333 @@
+future
+[
+  {
+    "school_name": "BAR W EL",
+    "school_type": "Elementary School",
+    "grade_range": "'PK-05",
+    "enrollment": 615,
+    "address": "2100 STAMP IRON AVE",
+    "city": "LEANDER",
+    "state": "TX",
+    "zip": "78628",
+    "principal": "JOY HUDGENS   ",
+    "phone": "(512) 260-5580",
+    "coordinates": {
+      "longitude": -97.835219999999893,
+      "latitude": 30.622959
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "BILL BURDEN EL",
+    "school_type": "Elementary School",
+    "grade_range": "'EE-05",
+    "enrollment": 764,
+    "address": "315 STONEWALL PKWY",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "MRS CHRISTINA GAMEZ   ",
+    "phone": "(512) 260-4400",
+    "coordinates": {
+      "longitude": -97.889175,
+      "latitude": 30.661515000000101
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "LIBERTY HILL EL",
+    "school_type": "Elementary School",
+    "grade_range": "'EE-05",
+    "enrollment": 736,
+    "address": "1400 LOOP 332",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "HEATHER COLLISON   ",
+    "phone": "(512) 515-6514",
+    "coordinates": {
+      "longitude": -97.9252785,
+      "latitude": 30.6682740000001
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "LOUINE NOBLE EL",
+    "school_type": "Elementary School",
+    "grade_range": "'EE-05",
+    "enrollment": 740,
+    "address": "101 LOOP 332",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "DAWN HUDSON   ",
+    "phone": "(512) 379-3200",
+    "coordinates": {
+      "longitude": -97.907962499999897,
+      "latitude": 30.663756
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "RANCHO SIENNA EL",
+    "school_type": "Elementary School",
+    "grade_range": "'EE-05",
+    "enrollment": 770,
+    "address": "751 BONNET BLVD",
+    "city": "GEORGETOWN",
+    "state": "TX",
+    "zip": "78629",
+    "principal": "ROBERT GILLIS   ",
+    "phone": "(512) 260-4450",
+    "coordinates": {
+      "longitude": -97.815672,
+      "latitude": 30.632481
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "SANTA RITA EL",
+    "school_type": "Elementary School",
+    "grade_range": "'EE-05",
+    "enrollment": 745,
+    "address": "532 SANTA RITA BLVD",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "KENDELL LUEDTKE   ",
+    "phone": "(512) 379-3360",
+    "coordinates": {
+      "longitude": -97.844085,
+      "latitude": 30.6470880000001
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "TIERRA ROSA EL",
+    "school_type": "Elementary School",
+    "grade_range": "'PK-05",
+    "enrollment": 715,
+    "address": "89 E SANTA RITA BLVD",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "BRANDI PENNINGTON   ",
+    "phone": "(512) 260-5580",
+    "coordinates": {
+      "longitude": -97.831872,
+      "latitude": 30.655323
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "STEP - DETENTION",
+    "school_type": "Elementary/Secondary",
+    "grade_range": "'05-12",
+    "enrollment": 0,
+    "address": "1821 SE INNER LOOP",
+    "city": "GEORGETOWN",
+    "state": "TX",
+    "zip": "78626",
+    "principal": "TARA STEWART   ",
+    "phone": "(512) 943-3260",
+    "coordinates": {
+      "longitude": -97.659351,
+      "latitude": 30.618333
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "STEP - JJAEP",
+    "school_type": "Elementary/Secondary",
+    "grade_range": "'06-12",
+    "enrollment": 0,
+    "address": "200 WILCO WAY",
+    "city": "GEORGETOWN",
+    "state": "TX",
+    "zip": "78626-9999",
+    "principal": "TARA STEWART   ",
+    "phone": "(512) 943-3260",
+    "coordinates": {
+      "longitude": -97.659216,
+      "latitude": 30.617865000000101
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "FUTURE H S",
+    "school_type": "High School",
+    "grade_range": "'09-12",
+    "enrollment": 0,
+    "address": "301 FORREST ST",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": null,
+    "phone": "(512) 260-5580",
+    "coordinates": {
+      "longitude": -97.921548,
+      "latitude": 30.666636
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "LEGACY RANCH H S",
+    "school_type": "High School",
+    "grade_range": "'09",
+    "enrollment": 315,
+    "address": "450 CR 258",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "MARK KOLLER   ",
+    "phone": "(512) 260-5580",
+    "coordinates": {
+      "longitude": -97.8729795,
+      "latitude": 30.6629730000001
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "LIBERTY HILL H S",
+    "school_type": "High School",
+    "grade_range": "'09-12",
+    "enrollment": 2156,
+    "address": "16500 W STATE HWY 29",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "MR BRYON ELLISON   ",
+    "phone": "(512) 260-5500",
+    "coordinates": {
+      "longitude": -97.954191,
+      "latitude": 30.6823410000001
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "STEP - CORE",
+    "school_type": "High School",
+    "grade_range": "'07-12",
+    "enrollment": 0,
+    "address": "200 WILCO WAY",
+    "city": "GEORGETOWN",
+    "state": "TX",
+    "zip": "78626",
+    "principal": "TARA STEWART   ",
+    "phone": "(512) 943-3260",
+    "coordinates": {
+      "longitude": -97.659216,
+      "latitude": 30.617865000000101
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "LIBERTY HILL MIDDLE",
+    "school_type": "Middle School",
+    "grade_range": "'06-08",
+    "enrollment": 1050,
+    "address": "13125 W STATE HWY 29",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "MONICA MILLER   ",
+    "phone": "(512) 379-3300",
+    "coordinates": {
+      "longitude": -97.902144,
+      "latitude": 30.661092
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  },
+  {
+    "school_name": "SANTA RITA MIDDLE",
+    "school_type": "Middle School",
+    "grade_range": "'06-08",
+    "enrollment": 1230,
+    "address": "90 E SANTA RITA BLVD",
+    "city": "LIBERTY HILL",
+    "state": "TX",
+    "zip": "78642",
+    "principal": "NICOLE HAGERTY   ",
+    "phone": "(512) 379-3380",
+    "coordinates": {
+      "longitude": -97.8301845,
+      "latitude": 30.6521550000001
+    },
+    "district_info": {
+      "name": "LIBERTY HILL ISD",
+      "type": "INDEPENDENT",
+      "enrollment": 9836,
+      "superintendent": "STEVEN SNELL   "
+    }
+  }
+]

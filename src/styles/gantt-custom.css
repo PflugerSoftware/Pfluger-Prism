@@ -1,0 +1,70 @@
+/* Frappe Gantt Custom Styles - Project Type Colors */
+
+/* Use theme colors from ThemeManager for project types */
+.gantt .bar.project-type-new-construction {
+  fill: #2563eb !important;
+}
+
+.gantt .bar.project-type-renovation {
+  fill: #7c3aed !important;
+}
+
+.gantt .bar.project-type-addition {
+  fill: #059669 !important;
+}
+
+.gantt .bar.project-type-equity {
+  fill: #ea580c !important;
+}
+
+.gantt .bar.project-type-specialty {
+  fill: #d946ef !important;
+}
+
+/* Bar hover effects */
+.gantt .bar:hover {
+  opacity: 0.9;
+}
+
+/* Gantt container styling */
+.gantt-container {
+  width: 100%;
+  height: 500px;
+  overflow-x: auto;
+  overflow-y: visible;
+}
+
+.gantt-container .gantt {
+  width: 100% !important;
+}
+
+/* Customize grid lines */
+.gantt .grid-row {
+  fill: #f9fafb;
+}
+
+.gantt .grid-row:nth-child(even) {
+  fill: #ffffff;
+}
+
+/* Today marker */
+.gantt .today-highlight {
+  fill: #fef3c7;
+  opacity: 0.3;
+}
+
+/* Bar labels */
+.gantt .bar-label {
+  fill: #ffffff;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+/* Handle styling for resize */
+.gantt .handle {
+  fill: rgba(255, 255, 255, 0.3);
+}
+
+.gantt .handle:hover {
+  fill: rgba(255, 255, 255, 0.6);
+}
