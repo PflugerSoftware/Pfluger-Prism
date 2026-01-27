@@ -8,7 +8,7 @@
  * Features: 3D buildings, terrain, custom markers, day/night themes
  */
 
-export const MAPBOX_TOKEN = 'pk.eyJ1IjoiYXBwc3BmbHVnZXIiLCJhIjoiY21od2t0NTZwMDBvNjJqcTFoYmV3bzFwYyJ9.7bIyUK74swnmvzPfVBkKmw';
+export const MAPBOX_TOKEN = 'pk.eyJ1IjoicGZsdWdlcmFyY2hpdGVjdHMiLCJhIjoiY21rNzRoMWg1MHpydDNmcHR4eG44ZXhibSJ9.7yynmzS4bjy2hbFB8xo5HQ';
 
 /**
  * Mapbox style URLs for different themes
