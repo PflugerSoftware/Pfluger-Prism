@@ -159,7 +159,7 @@ Bond Builder uses gantt-task-react for project scheduling:
 
 **Authentication Flow:**
 - Login screen shows when `isAuthenticated` is false
-- Currently uses hardcoded credentials: `apps@pflugerarchitects.com` / `123456`
+- Currently uses hardcoded credentials: `apps@pflugerarchitects.com` / `jPfeTsewgv04`
 - Full authentication context in `AuthContext.tsx`
 
 ### Theme System

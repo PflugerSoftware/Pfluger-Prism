@@ -78,7 +78,7 @@ npm run build
 ### Default Login Credentials
 ```
 Email: apps@pflugerarchitects.com
-Password: 123456
+Password: jPfeTsewgv04
 ```
 
 ---
@@ -365,7 +365,7 @@ Location: `src/components/System/AuthContext.tsx`
 **Default Credentials:**
 ```
 Email: apps@pflugerarchitects.com
-Password: 123456
+Password: jPfeTsewgv04
 ```
 
 **Auth Flow:**
