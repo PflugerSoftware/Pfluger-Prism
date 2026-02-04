@@ -8,7 +8,15 @@
  * Features: 3D buildings, terrain, custom markers, day/night themes
  */
 
-export const MAPBOX_TOKEN = 'pk.eyJ1IjoicGZsdWdlcmFyY2hpdGVjdHMiLCJhIjoiY21rNzRoMWg1MHpydDNmcHR4eG44ZXhibSJ9.7yynmzS4bjy2hbFB8xo5HQ';
+// Read Mapbox token from environment variable
+// Token is for the pflugerarchitects Mapbox account
+export const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || '';
+
+// Validate token is present
+if (!MAPBOX_TOKEN) {
+  console.error('VITE_MAPBOX_TOKEN is not defined in environment variables');
+  console.error('Please add VITE_MAPBOX_TOKEN to your .env.local file');
+}
 
 /**
  * Mapbox style URLs for different themes
